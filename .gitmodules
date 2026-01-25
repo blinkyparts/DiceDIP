@@ -1,0 +1,3 @@
+[submodule "KiCAD/DiceDIP_LowerPart/blinkyparts.pretty"]
+	path = KiCAD/DiceDIP_LowerPart/blinkyparts.pretty
+	url = ssh://git@codeberg.org/blinkyparts/blinkyparts.pretty.git
