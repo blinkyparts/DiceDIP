@@ -106,7 +106,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R4"
-			(at 3.81 0 0)
+			(at 2.06 0 0)
 			(layer "F.SilkS")
 			(uuid "36af8e8a-567e-4993-a4ba-fcd8a7ff26cd")
 			(effects
@@ -118,7 +118,7 @@
 		)
 		(property "Value" "2k2"
 			(at 5 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c66fbcb5-7569-4003-a6fb-9ac86c928948")
 			(effects
 				(font
@@ -1042,7 +1042,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C1"
-			(at 2 0 0)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "2ecc5a34-25ba-440e-96a1-b7118b2b987f")
 			(effects
@@ -1225,7 +1225,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
 		(property "Reference" "U1"
-			(at 4 7.28 90)
+			(at 3.87 8.75 180)
 			(layer "F.SilkS")
 			(uuid "6e3090c2-f766-4910-beca-7e0f2bea6690")
 			(effects
@@ -1605,7 +1605,7 @@
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D11"
-			(at 6.08 0 0)
+			(at 5.58 0 0)
 			(layer "F.SilkS")
 			(uuid "0b57f5e0-b8c1-4fbb-92eb-5aa86a638dda")
 			(effects
@@ -3245,7 +3245,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R2"
-			(at 3.61 0 90)
+			(at 2.06 0 90)
 			(layer "F.SilkS")
 			(uuid "965e8ea3-767f-4c0a-a152-fd6241212ec7")
 			(effects
@@ -3257,7 +3257,7 @@
 		)
 		(property "Value" "2M2"
 			(at 5 0 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "ce9fde40-b691-4b2b-807e-33bed17dbb7a")
 			(effects
 				(font
@@ -3448,7 +3448,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R3"
-			(at 3.61 -0.1 0)
+			(at 5.56 0 0)
 			(layer "F.SilkS")
 			(uuid "17736b35-1d65-4fed-b000-f974f5db5dc3")
 			(effects
@@ -3459,8 +3459,8 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 5 0 0)
-			(layer "F.Fab")
+			(at 2.31 0 0)
+			(layer "F.SilkS")
 			(uuid "4df2dc2d-e804-4a8c-841a-a68ff89b272f")
 			(effects
 				(font
@@ -3651,7 +3651,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
-			(at 4.21 -0.1 90)
+			(at 2.06 0 90)
 			(layer "F.SilkS")
 			(uuid "dbe7b04f-5fc0-479e-ad36-ff66a82c991f")
 			(effects
@@ -3662,8 +3662,8 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 5 0 90)
-			(layer "F.Fab")
+			(at 5.06 0 90)
+			(layer "F.SilkS")
 			(uuid "ca50c224-32fa-4514-a8b7-0ccccf08271b")
 			(effects
 				(font
@@ -3854,7 +3854,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 3.81 0 0)
+			(at 4.12 0 0)
 			(layer "F.SilkS")
 			(uuid "82a482cc-2ba1-4e8f-9513-958a64422d59")
 			(effects
@@ -4139,7 +4139,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 4.92 -0.1 90)
+			(at 4.06 0 90)
 			(layer "F.SilkS")
 			(uuid "e76dc7ed-f8f6-4548-9e04-becfbabb0e8d")
 			(effects
@@ -4607,7 +4607,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
-			(at 4.52 -0.1 90)
+			(at 4.31 0 90)
 			(layer "F.SilkS")
 			(uuid "bb8d1b51-71e8-4183-81f4-ec068825699f")
 			(effects
@@ -5075,24 +5075,24 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R5"
-			(at 3.5 0 0)
+			(at 2.06 0 0)
 			(layer "F.SilkS")
 			(uuid "7e25305b-6dd2-46b1-b942-20af4e257133")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "120k"
 			(at 5 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "82dd550c-858f-49de-9012-dcd25b5e354c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5278,7 +5278,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
 		(property "Reference" "U2"
-			(at 3.5 3.7 90)
+			(at 3.75 7.79 180)
 			(layer "F.SilkS")
 			(uuid "c3c44b38-af99-4c68-aa1e-ca247ab88dcf")
 			(effects
